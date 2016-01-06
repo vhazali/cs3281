@@ -97,7 +97,7 @@ meeting + Q&A session.
    * Includes a delivery plan approved by the project mentors. Early and incremental delivery
      required 
 
-   * Deliverable: post plan in website (see [Communication](#heading=h.8n4noqyjkgbi) section below) 
+   * Deliverable: post plan in website (see [Communication](#communication) section below) 
 
 5. Roles divided 
 
