@@ -199,7 +199,7 @@ For minor contribution:
 
 * To contact teaching team: email to cs3281-staff@googlegroups.com 
 
-* Progress reporting: done via the Project progress page of this module website. When you need to 
+* Progress reporting: done via the Project progress page (see [sample](projectProgress.md)) of this module website. When you need to 
 update any information about your team or yourself, submit a PR. 
 
 
