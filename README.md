@@ -1,14 +1,13 @@
 # CS3281&2 (NUS-FBOA aka Thematic Systems Project)
-## Module structure 
 
-### Learning outcomes 
+## Learning outcomes 
 
 There are two main Intended Learning Outcomes, to be achieved at *basic*, *intermediate*, and 
 *advanced* levels. 
 
-#### ILO1. Able to work in big production systems (80%) 
+### ILO1. Able to work in big production systems (80%) 
 
-##### Strategies
+#### Strategies
 
 You must contribute to two non-trivial OSS projects: one must be an *internal* project and one must 
 be an *external* project. 
@@ -53,7 +52,7 @@ project
 * At least 4 projects should be covered by members of a team. e.g. a 3-member team can do a major 
 contribution to one project and minor contributions to 3 other projects. 
 
-##### Achievement levels
+#### Achievement levels
 
 * Basic: 
 
@@ -76,7 +75,7 @@ contribution to one project and minor contributions to 3 other projects.
   * Mentor new members of a project 
 
 
-##### Milestones
+#### Milestones
 
 For major contribution: 
 
@@ -147,9 +146,9 @@ For minor contribution:
 
    * Deliverable: create blog post and give link in the module website 
 
-#### ILO2. Able to develop an expertise (20%) 
+### ILO2. Able to develop an expertise (20%) 
 
-##### Strategies
+#### Strategies
 
 * You must pick a tool/technology, and develop an expertise in it (let’s call it X) 
 
@@ -157,7 +156,7 @@ For minor contribution:
 
 * Work done outside the module is eligible. 
 
-##### Achievements
+#### Achievements
 
 * Basic:
 
@@ -172,7 +171,7 @@ For minor contribution:
 
   * Establish credentials by teaching, troubleshooting, evangelizing, etc. 
 
-##### Milestones
+#### Milestones
 
 * Technology selected 
 
