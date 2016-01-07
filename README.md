@@ -48,7 +48,7 @@ project
     | CB | ALEX YAO YANG | 
     | CB | JIANG SHENG | 
     | CB | MA TANGHAO | 
-    | CB | YOS RIADY | 
+    | CB | MOON SEOKMIN | 
     | HT | LIU XINAN | 
     | HT | MUHAMMAD RAIS FATHIN MUDZAKIR | 
     | HT | TAN SOON JIN | 
@@ -63,7 +63,6 @@ project
     | SI | ZHENG WEIHAN | 
     | SI | DIGA WIDYAPRANA | 
     | TM | KENNETH HO CHEE CHONG | 
-    | TM | MOON SEOKMIN | 
     | TM | SU SUMEI | 
     | TM | WONG YU XUAN | 
     | TM | JOHN KEVIN TJAHJADI | 
