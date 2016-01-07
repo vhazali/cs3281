@@ -1,5 +1,8 @@
 # CS3281&2 (NUS-FBOA aka Thematic Systems Project)
 
+## Project allocation
+
+
 ## Learning outcomes 
 
 There are two main Intended Learning Outcomes, to be achieved at *basic*, *intermediate*, and 
@@ -36,6 +39,35 @@ project
 
   * To be done in teams of 3-5. Your team is defined by your major project. The teams we have this 
     semester are: Team-CB, Team-HT, Team-PL, Team-SI, Team-TM. 
+  
+  * Here is the latest state of the major project allocation for this semester:
+
+    | Major project | Student name |
+    |---------------|--------------|
+    | CB | THNG KAI YUAN | 
+    | CB | ALEX YAO YANG | 
+    | CB | JIANG SHENG | 
+    | CB | MA TANGHAO | 
+    | CB | YOS RIADY | 
+    | HT | LIU XINAN | 
+    | HT | MUHAMMAD RAIS FATHIN MUDZAKIR | 
+    | HT | TAN SOON JIN | 
+    | HT | TAN YI YAN | 
+    | HT | CHOO BOON YONG MARTIN | 
+    | PL | CHAN AO WEI OSWELL | 
+    | PL | WU YU TING | 
+    | PL | YAN CHAN MIN OO | 
+    | SI | LEOW YIJIN | 
+    | SI | MICHAEL LIMANTARA | 
+    | SI | ZHU LIANG | 
+    | SI | ZHENG WEIHAN | 
+    | SI | DIGA WIDYAPRANA | 
+    | TM | KENNETH HO CHEE CHONG | 
+    | TM | MOON SEOKMIN | 
+    | TM | SU SUMEI | 
+    | TM | WONG YU XUAN | 
+    | TM | JOHN KEVIN TJAHJADI | 
+
 
 * Minor contribution: 
 
