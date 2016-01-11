@@ -57,6 +57,7 @@ project
     | PL | CHAN AO WEI OSWELL | 
     | PL | WU YU TING | 
     | PL | YAN CHAN MIN OO | 
+    | PL | VICTOR HAZALI |
     | SI | LEOW YIJIN | 
     | SI | MICHAEL LIMANTARA | 
     | SI | ZHU LIANG | 
