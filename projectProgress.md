@@ -6,8 +6,8 @@
 * [ ] Feature planned
 
 ### Adam Tan (githubID)
-* [x] irst PR submitted - Week 1, Mon
-* [x] irst PR merged - Week 1, Mon
+* [x] First PR submitted - Week 1, Mon
+* [x] First PR merged - Week 1, Mon
 * [ ] ...
 
 #### Contribution to project HT
