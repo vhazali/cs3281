@@ -12,7 +12,7 @@ permalink: /teams/powerpointlabs/
    - Technology Expertise:
  - Yan Chan Min Oo ([@yancmo](https://yancmo.wordpress.com/))
    - Technology Expertise:
- - Victor Hazali ([@vhazali]())
+ - Victor Hazali ([@vhazali](https://blog.nus.edu.sg/victorhz3281/))
    - Technology Expertise:
 
 ## Workplan
